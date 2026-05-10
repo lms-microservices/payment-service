@@ -1,4 +1,4 @@
-package com.eduflow.payment_service.config;
+package com.lms.payment_service.config;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
